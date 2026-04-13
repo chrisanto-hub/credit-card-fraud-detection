@@ -23,18 +23,18 @@ machine learning, and an interactive Power BI dashboard.
 
 ## 📊 Key Findings
 
-| Metric                    | Value            |
+| Metric                    |         |
 | ------------------------- | ---------------- |
-| Total Transactions        | [your number]    |
-| Total Fraud Cases         | [your number]    |
-| Fraud Rate                | [your number]%   |
-| Total Fraud Amount Lost   | $[your number]   |
-| Average Fraud Transaction | $[your number]   |
-| Peak Fraud Hour           | [your number]:00 |
-| Highest Risk Category     | [your category]  |
-| Most Targeted Age Group   | [your age group] |
-| Top Fraud State           | [your state]     |
-| Model ROC-AUC Score       | [your score]     |
+| Total Transactions        |     |
+| Total Fraud Cases         |     |
+| Fraud Rate                |  |
+| Total Fraud Amount Lost   |   |
+| Average Fraud Transaction |  |
+| Peak Fraud Hour           |  |
+| Highest Risk Category     |   |
+| Most Targeted Age Group   | |
+| Top Fraud State           |   |
+| Model ROC-AUC Score       |    |
 
 ---
 
@@ -141,18 +141,18 @@ modeling to address this.
 
 | #   | Query                 | Key Insight    |
 | --- | --------------------- | -------------- |
-| 1   | Overview KPIs         | [your finding] |
-| 2   | Fraud by Category     | [your finding] |
-| 3   | Fraud by Hour         | [your finding] |
-| 4   | Fraud by Day          | [your finding] |
-| 5   | Fraud by Month        | [your finding] |
-| 6   | Fraud by State        | [your finding] |
-| 7   | Fraud by Gender       | [your finding] |
-| 8   | Fraud by Age Group    | [your finding] |
-| 9   | Amount Distribution   | [your finding] |
-| 10  | Top 15 Merchants      | [your finding] |
-| 11  | Category + Hour Combo | [your finding] |
-| 12  | Fraud by City Size    | [your finding] |
+| 1   | Overview KPIs         |  |
+| 2   | Fraud by Category     | |
+| 3   | Fraud by Hour         | 
+| 4   | Fraud by Day          | 
+| 5   | Fraud by Month        | |
+| 6   | Fraud by State        |  |
+| 7   | Fraud by Gender       | |
+| 8   | Fraud by Age Group    | 
+| 9   | Amount Distribution   | 
+| 10  | Top 15 Merchants       |
+| 11  | Category + Hour Combo |
+| 12  | Fraud by City Size    |  |
 
 ---
 
