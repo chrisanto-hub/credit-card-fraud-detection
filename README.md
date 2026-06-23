@@ -32,9 +32,9 @@ machine learning, and an interactive Power BI dashboard.
 | Average Fraud Transaction | $530.66 |
 | Peak Fraud Hour           | 22 |
 | Highest Risk Category     |  grocery_pos |
-| Most Targeted Age Group   | |
+| Most Targeted Age Group   | 41-50 |
 | Top Fraud State           | NY   |
-| Model ROC-AUC Score       |    |
+| Model ROC-AUC Score       | 0.9914   |
 
 ---
 
@@ -188,10 +188,10 @@ modeling to address this.
 
 | Metric            | Score        |
 | ----------------- | ------------ |
-| ROC-AUC           | [your score] |
-| Precision (Fraud) | [your score] |
-| Recall (Fraud)    | [your score] |
-| F1-Score (Fraud)  | [your score] |
+| ROC-AUC           | [0.9914] |
+| Precision (Fraud) | [0.16] |
+| Recall (Fraud)    | [0.93] |
+| F1-Score (Fraud)  | [0.27] |
 
 **Most Important Features:**
 
@@ -293,11 +293,13 @@ Open `powerbi/fraud_dashboard.pbix` in Power BI Desktop
 
 ## 📬 Connect With Me
 
-**[Your Name]**
+**[CHRISANTO MOCHAMA ONGANGI]**
 
-- 💼 LinkedIn: [your linkedin url]
-- 🐙 GitHub: [your github url]
-- 📧 Email: [your email]
+- 💼 LinkedIn: https://www.linkedin.com/in/chrisanto-ongangi-066a20252
+
+- 🐙 GitHub: https://github.com/chrisanto-hub
+
+- 📧 Email: ongangichrisanto@gmail.com
 
 ---
 
