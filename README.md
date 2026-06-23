@@ -25,15 +25,15 @@ machine learning, and an interactive Power BI dashboard.
 
 | Metric                    |         |
 | ------------------------- | ---------------- |
-| Total Transactions        |     |
-| Total Fraud Cases         |     |
-| Fraud Rate                |  |
+| Total Transactions        |  1852394   |
+| Total Fraud Cases         |  9651   |
+| Fraud Rate                | 0.52% |
 | Total Fraud Amount Lost   |   |
-| Average Fraud Transaction |  |
-| Peak Fraud Hour           |  |
-| Highest Risk Category     |   |
+| Average Fraud Transaction | $530.66 |
+| Peak Fraud Hour           | 22 |
+| Highest Risk Category     |  grocery_pos |
 | Most Targeted Age Group   | |
-| Top Fraud State           |   |
+| Top Fraud State           | NY   |
 | Model ROC-AUC Score       |    |
 
 ---
