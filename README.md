@@ -28,8 +28,8 @@ machine learning, and an interactive Power BI dashboard.
 | Total Transactions        |  1852394   |
 | Total Fraud Cases         |  9651   |
 | Fraud Rate                | 0.52% |
-| Total Fraud Amount Lost   |   |
-| Average Fraud Transaction | $530.66 |
+| Total Fraud Amount Lost   | $530.66  |
+| Average Fraud Transaction | $67.65 |
 | Peak Fraud Hour           | 22 |
 | Highest Risk Category     |  grocery_pos |
 | Most Targeted Age Group   | 41-50 |
